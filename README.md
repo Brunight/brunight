@@ -21,7 +21,7 @@ const Contacts = {
 - 🤝 Contribute more to Open Source projects
 - ⌚ Commit in at least five days a week
 
-### Languages and Tools:
+### 🛠 Languages and Tools:
 
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
