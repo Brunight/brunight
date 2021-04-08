@@ -21,8 +21,6 @@ const Contacts = {
 - 🤝 Contribute more to Open Source projects
 - ⌚ Commit in at least five days a week
 
-<br />
-
 ### Languages and Tools:
 
 
