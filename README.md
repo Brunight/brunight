@@ -17,9 +17,9 @@ const Contacts = {
  
 ### 🥅 2021 Goals:
 - 📖 Keep learning
-- 👨‍💻 Find my first job
 - 🤝 Contribute more to Open Source projects
 - ⌚ Commit in at least five days a week
+- <s>👨‍💻 Find my first job</s>
 
 ### 🛠 Languages and Tools:
 
