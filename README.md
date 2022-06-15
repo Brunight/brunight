@@ -13,7 +13,7 @@ const Contacts = {
 
 - Analysis and Systems Development Technology course in FATEC São Caetano do Sul
 - [Ignite ReactJS](https://github.com/Brunight/ignite-reactjs) course in [Rocketseat](https://rocketseat.com.br)
-- English language by my on
+- English language by my own
  
 ### 🥅 2021 Goals:
 - 📖 Keep learning
